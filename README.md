@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/P4FGMoS.png" width=400 style="display: block; margin: 0 auto"/>
+  <h1 width=400 style="display: block; margin: 0 auto"/>I'm Wajahat Ali </h1>
 </p>
 
 <div align='center'>
